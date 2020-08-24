@@ -1,0 +1,293 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/web1327/awstats/conf/awstats.updatedeng.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2688                
+POS_VISITOR 6524                
+POS_DAY 7306                
+POS_DOMAIN 3317                
+POS_LOGIN 3545                
+POS_ROBOT 3700                
+POS_WORMS 3951                
+POS_EMAILSENDER 4082                
+POS_EMAILRECEIVER 4225                
+POS_SESSION 7604                
+POS_SIDER 7762                
+POS_FILETYPES 4360                
+POS_OS 4515                
+POS_BROWSER 4604                
+POS_SCREENSIZE 4855                
+POS_UNKNOWNREFERER 4929                
+POS_UNKNOWNREFERERBROWSER 5016                
+POS_ORIGIN 5098                
+POS_SEREFERRALS 5232                
+POS_PAGEREFS 5388                
+POS_SEARCHWORDS 5536                
+POS_KEYWORDS 5688                
+POS_MISC 2352                
+POS_ERRORS 5747                
+POS_CLUSTER 3401                
+POS_SIDER_404 5844                
+POS_EXTRA_1 6219                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180801002704 19 3525 13363804182127
+FirstTime 20180701031516
+LastTime 20180731224107
+LastUpdate 20180801010710 19 0 18 0 0
+TotalVisits 22                  
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 24                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 12221 0 0 0
+1 0 2 2686 0 1 0
+2 0 0 0 0 1 43477
+3 6 6 73326 2 4 4875
+4 0 0 0 3 3 7387
+5 0 0 0 1 2 3711
+6 1 1 3641 1 2 9040
+7 1 1 12221 1 1 4130
+8 1 13 870501 0 0 0
+9 1 16 582883 4 4 11469
+10 2 15 1233092 1 3 879
+11 0 2 87981 2 5 28363
+12 1 14 926440 0 1 1343
+13 1 2 4984 0 1 0
+14 0 2 19578 2 4 24935
+15 2 5 65907 4 6 26087
+16 2 4 9968 2 2 7524
+17 0 1 55939 0 0 0
+18 0 0 0 0 1 388
+19 2 2 15862 3 7 31904
+20 0 1 123176 5 9 38562
+21 2 3 382903 3 10 164641
+22 1 1 3641 0 1 12362
+23 0 3 4029 5 7 25916
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 24 95 4490979
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+googlebot 33 228068 20180731193556 6
+bot[\s_+:,\.\;\/\\-] 33 120895 20180731205534 4
+netcraft 1 12221 20180703142408 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 4 22868 0 0
+php 19 163559 0 0
+png 37 2521064 0 0
+js 8 73644 0 0
+jpg 22 1687133 0 0
+Unknown 5 22711 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+macosx 18
+winxp 1
+winnt 27
+winvista 13
+win2008 36
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 10
+chrome67.0.3396.87 17
+chrome61.0.3163.100 7
+chrome67.0.3396.99 33
+chrome60.0.3112.101 13
+chrome68.0.3440.75 1
+chrome63.0.3239.132 2
+chrome66.0.3359.181 9
+chrome49.0.2623.112 1
+safari 11
+firefox47.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 19 30
+From1 0 0
+From2 5 14
+From3 0 0
+From4 0 51
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 5 14
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 1 262
+404 7 85547
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 7
+/blog/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/app/etc/local.xml 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 0
+END_EXTRA_1
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 24
+189.38.88.90 9 9 109989 20180710031229
+13.57.233.99 4 4 14564 20180731224107
+52.53.201.78 3 3 10923 20180705160618
+46.118.115.22 2 2 24442 20180702215038
+84.91.2.174 2 26 1741002 20180705080253
+187.85.132.178 2 17 587013 20180702100531
+187.2.164.132 1 13 870501 20180701102537
+34.216.203.73 1 1 3641 20180706061558
+179.108.203.150 0 1 358461 
+168.0.4.72 0 1 55939 
+189.6.235.54 0 1 123176 
+177.200.204.3 0 1 32042 
+189.40.89.182 0 1 1343 
+177.69.57.50 0 1 55939 
+189.40.74.40 0 1 1343 
+186.209.51.63 0 1 358461 
+138.204.27.70 0 1 18235 
+201.93.106.2 0 2 2686 
+168.0.64.166 0 1 55939 
+187.37.75.106 0 4 5372 
+189.100.120.106 0 1 1343 
+170.82.198.151 0 1 55939 
+191.255.154.30 0 1 1343 
+189.40.89.192 0 1 1343 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20180701 3 17 889049 3
+20180702 6 23 684599 4
+20180703 2 4 430262 2
+20180704 2 16 885408 2
+20180705 4 19 948629 4
+20180706 2 6 92722 2
+20180707 0 1 1343 0
+20180708 2 3 17205 2
+20180709 1 2 370682 1
+20180710 1 1 12221 1
+20180731 1 3 158859 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 21
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 19 163559 18 18
+/servico/consultoria-em-processos-de-tratamento-termic-4 3 14451 3 3
+/servico/homologacao-de-fornos-de-tratamento-termico-c-1 2 8260 1 1
+END_SIDER

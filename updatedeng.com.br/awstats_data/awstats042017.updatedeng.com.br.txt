@@ -1,0 +1,362 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201704 will be lost/reset.
+# Last config file used to build this data file was /home/web1327/awstats/conf/awstats.updatedeng.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2676                
+POS_VISITOR 7164                
+POS_DAY 8873                
+POS_DOMAIN 3396                
+POS_LOGIN 3626                
+POS_ROBOT 3781                
+POS_WORMS 4171                
+POS_EMAILSENDER 4302                
+POS_EMAILRECEIVER 4445                
+POS_SESSION 9513                
+POS_SIDER 9681                
+POS_FILETYPES 4580                
+POS_OS 4742                
+POS_BROWSER 4868                
+POS_SCREENSIZE 5324                
+POS_UNKNOWNREFERER 5398                
+POS_UNKNOWNREFERERBROWSER 5556                
+POS_ORIGIN 5638                
+POS_SEREFERRALS 5773                
+POS_PAGEREFS 5930                
+POS_SEARCHWORDS 6078                
+POS_KEYWORDS 6230                
+POS_MISC 2340                
+POS_ERRORS 6289                
+POS_CLUSTER 3482                
+POS_SIDER_404 6415                
+POS_EXTRA_1 6639                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170501001900 56 14817 21657728393833
+FirstTime 0
+LastTime 20170430083550
+LastUpdate 20170501011633 56 0 55 0 0
+TotalVisits 29                  
+TotalUnique 21                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 16 1206606 0 0 0
+1 1 15 1189101 7 10 21433
+2 2 16 1202460 1 3 494
+3 3 48 3520903 8 14 55859
+4 0 0 0 5 6 9392
+5 2 31 2296792 2 2 26
+6 3 32 2310151 6 7 12187
+7 2 31 2296792 7 12 46233
+8 4 49 2915530 5 8 21778
+9 1 16 582631 2 5 58280
+10 3 31 1459390 2 5 7647
+11 0 0 0 2 6 33722
+12 1 1 12221 9 9 60664
+13 0 0 0 0 0 0
+14 1 2 57310 11 13 61954
+15 0 3 431905 2 6 28006
+16 4 42 1876173 3 15 191552
+17 0 1 32042 14 38 410245
+18 0 2 49547 40 107 2143384
+19 0 2 122129 36 108 3218187
+20 1 19 1227714 21 93 4145615
+21 1 20 1536183 7 28 1042982
+22 2 32 2337215 2 28 1929208
+23 2 19 1204077 4 18 993856
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 34 428 27866872
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+bot[\s_+:,\.\;\/\\-] 372 13932998 20170430210133 6
+googlebot 67 164460 20170430202102 25
+favicon 10 24570 20170419071544 0
+unknown 6 622 20170427042930 6
+spider 5 58280 20170422095122 1
+surveybot 2 3672 20170418012105 1
+msnbot\-media 2 8130 20170412071842 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 25 416278 0 0
+php 21 170141 0 0
+png 242 21578857 0 0
+jpg 77 4779663 0 0
+js 50 849174 0 0
+Unknown 13 72759 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 60
+linuxandroid 75
+winxp 31
+winnt 47
+Unknown 1
+linux 15
+winvista 53
+win2008 146
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+safari7.0 15
+firefox48.0 16
+chrome58.0.3029.81 3
+chrome48.0.2564.116 1
+firefox52.0 3
+safari10.0 45
+chrome56.0.2924.87 33
+chrome57.0.2987.98 1
+chrome49.0.2623.75 2
+chrome38.0.2125.102 15
+iphone 1
+mozilla 162
+chrome51.0.2704.106 15
+chrome48.0.2564.109 1
+chrome57.0.2987.133 65
+msie7.0 3
+chrome27.0.1453 15
+chrome40.0.2214.85 1
+chrome35.0.1862.2 1
+chrome49.0.2623.112 13
+chrome44.0.2403.133 15
+firefox11.0 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+com.google.GoogleMobile/24.1.0_iPhone/10.2_hw/iPhone7_2 20170425195933
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2 22
+From1 0 0
+From2 29 56
+From3 0 0
+From4 3 350
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 29 56
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 7 1416
+302 48 1118
+206 10 175228
+404 10 122210
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 6
+/administrator/index.php 1 -
+/blog/robots.txt 2 -
+/blog/ 2 -
+/wordpress/ 2 -
+/user/ 1 -
+/wp/ 2 -
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 4
+/files/services/fornos-desenho.jpg 0 2 11976 
+/files/services/p1a2367qb4bf61fabaq7v831msv4.png 0 4 92806 
+/files/pages/p1a1kg6ldblaur0r1r8l9hai84.png 0 2 30881 
+/files/pages/p1a1kfun2o1vkm1s20hvo1vl81dj94.png 0 2 39565 
+END_EXTRA_1
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+66.249.88.159 3 38 2068768 20170423074031
+186.239.253.201 3 19 635850 20170417165728
+66.249.88.128 3 39 3689511 20170423074026
+66.249.88.24 2 29 2066867 20170410014344
+66.102.6.18 2 19 1196104 20170403001959
+191.8.183.126 2 17 586696 20170403085838
+178.137.83.79 2 2 24442 20170418123047
+66.249.88.26 2 27 2266996 20170430083550
+146.185.223.121 2 2 17424 20170421231158
+200.179.183.2 2 13 797946 20170421101951
+211.20.213.237 0 1 55939 
+66.249.80.12 1 1 3571 20170410220341
+66.102.6.114 1 12 972345 20170423232824
+66.102.7.134 0 4 229885 
+177.67.4.100 0 1 45089 
+177.182.248.2 0 1 17505 
+138.99.52.150 0 1 32042 
+66.249.80.8 0 1 84351 
+191.33.59.193 0 3 76762 
+189.82.236.18 0 1 25311 
+66.102.6.22 1 26 1767115 20170409214542
+138.94.56.124 0 2 200183 
+179.186.233.196 0 1 32042 
+66.249.88.28 1 22 1367412 20170402033602
+189.14.60.108 0 1 123176 
+177.132.181.95 0 1 358461 
+186.248.79.10 0 1 55939 
+64.215.22.90 1 16 582631 20170411103233
+187.123.65.179 0 1 358461 
+66.102.6.118 1 7 478795 20170424032817
+201.41.183.108 0 2 246352 
+66.102.6.20 1 17 1630365 20170409053548
+177.200.95.18 0 1 32042 
+66.102.7.132 0 6 714526 
+216.46.3.2 0 1 55939 
+66.102.6.116 0 12 845652 
+182.19.60.229 0 1 17505 
+201.20.79.56 0 1 32042 
+187.237.14.243 0 2 35010 
+66.249.88.158 1 33 2400011 20170430083546
+66.102.7.136 0 2 15279 
+188.37.161.253 0 1 90087 
+201.17.159.213 0 1 32042 
+191.254.14.143 0 1 35470 
+177.22.36.170 1 16 582631 20170418095429
+66.249.80.10 0 1 58736 
+201.63.20.114 0 1 32042 
+46.119.119.194 1 1 13359 20170404025328
+191.249.77.164 0 1 56851 
+78.130.134.20 1 16 582631 20170421162551
+187.39.98.180 0 1 123176 
+201.157.48.64 0 1 17505 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20170401 0 3 76762 0
+20170402 3 48 3762944 3
+20170403 3 32 1775797 2
+20170404 1 2 58448 1
+20170406 0 1 123176 0
+20170407 1 4 123076 1
+20170408 0 1 32042 0
+20170409 3 50 3577206 3
+20170410 2 30 2295449 2
+20170411 1 17 672718 1
+20170413 0 2 246352 0
+20170416 3 47 3404483 2
+20170417 4 34 1824951 2
+20170418 2 19 795035 2
+20170419 0 2 35010 0
+20170420 0 2 87981 0
+20170421 5 32 1453940 4
+20170422 0 2 88893 0
+20170423 3 47 3404483 3
+20170424 1 16 1547562 1
+20170425 0 2 87981 0
+20170426 0 1 17505 0
+20170427 0 1 35470 0
+20170428 0 1 17505 0
+20170429 0 1 25311 0
+20170430 2 31 2296792 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 1
+2mn-5mn 2
+0s-30s 26
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 21 170141 20 20
+/servico/homologacao-de-fornos-de-tratamento-termico-c-1 11 63303 8 8
+/servico/consultoria-em-processos-de-tratamento-termic-4 2 9456 1 1
+END_SIDER

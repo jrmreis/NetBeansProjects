@@ -1,0 +1,286 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201509 will be lost/reset.
+# Last config file used to build this data file was /home/web1327/awstats/conf/awstats.updatedeng.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2682                
+POS_VISITOR 6351                
+POS_DAY 6717                
+POS_DOMAIN 3263                
+POS_LOGIN 3495                
+POS_ROBOT 3650                
+POS_WORMS 3782                
+POS_EMAILSENDER 3913                
+POS_EMAILRECEIVER 4056                
+POS_SESSION 6829                
+POS_SIDER 7024                
+POS_FILETYPES 4191                
+POS_OS 4389                
+POS_BROWSER 4480                
+POS_SCREENSIZE 4628                
+POS_UNKNOWNREFERER 4702                
+POS_UNKNOWNREFERERBROWSER 4789                
+POS_ORIGIN 4871                
+POS_SEREFERRALS 5008                
+POS_PAGEREFS 5152                
+POS_SEARCHWORDS 5300                
+POS_KEYWORDS 5452                
+POS_MISC 2346                
+POS_ERRORS 5511                
+POS_CLUSTER 3351                
+POS_SIDER_404 5622                
+POS_EXTRA_1 6046                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151001082359 1 0 12971319805840
+FirstTime 20150929125855
+LastTime 20150930220602
+LastUpdate 20151002011623 1 0 0 0 0
+TotalVisits 14                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 1 1 3317 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 2 30 1141148 0 2 0
+11 11 33 919344 0 1 0
+12 103 464 3497843 22 36 56691
+13 0 0 0 0 0 0
+14 3 32 2224959 0 1 0
+15 20 163 845310 2 3 3114
+16 34 172 3299744 4 7 2270
+17 7 26 40142 0 1 0
+18 0 0 0 0 0 0
+19 55 332 672175 7 10 21765
+20 19 183 84781 3 3 5285
+21 13 53 1143154 0 1 0
+22 5 8 165560 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 273 1497 14037477
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 129 285676 0 0
+png 476 9355933 0 0
+woff 10 88038 0 0
+php 232 667126 0 0
+js 497 1064064 0 0
+jpg 121 2482538 0 0
+xml 1 384 0 0
+Unknown 31 93718 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 4
+macosx 435
+linuxandroid 21
+winvista 1012
+win2008 29
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 6
+nokia 42
+chrome45.0.2454.101 1338
+netscape5.0 12
+android 21
+firefox3.6.13 1
+chrome46.0.2490.42 83
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40 49
+From1 0 0
+From2 0 0
+From3 0 0
+From4 233 1448
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 31 48433
+404 12 40098
+301 3 594
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 5
+/mga/ 3 -
+/mga/files/slider/fornos-2-de-tratamento-termico-2-1-1.jpg 3 http://www.updatedeng.com.br/mga/
+/files/pages/p1a0g4ujv9gqlclf1cto15o0meu4.png 2 http://www.updatedeng.com.br/admin/ed.php
+/mga 1 -
+/mga/files/slider/fornos-2-de-tratamento-termico-1-2.jpg 3 http://www.updatedeng.com.br/mga/
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 0
+END_EXTRA_1
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+186.220.236.16 203 1054 5128275 20150930220602
+177.32.17.114 61 392 6196054 20150930120714
+104.209.188.207 4 12 56092 20150929172826
+177.213.7.63 2 21 1534612 20150930151108
+199.30.228.141 1 1 3317 20150930070056
+189.38.85.9 1 1 11952 20150929125855
+189.110.116.150 1 16 1107175 20150930140718
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20150929 24 142 3318280 4
+20150930 249 1355 10719197 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+5mn-15mn 1
+15mn-30mn 1
+30s-2mn 2
+0s-30s 4
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/ 53 235182 11 9
+/admin/upload-frame.php 27 47509 0 1
+/admin/ 21 42665 2 0
+/servico/fornos-de-tratamento-termico 17 55117 0 0
+/admin/pages.php 16 49267 0 0
+/admin/ed.php 16 48064 0 0
+/admin/rel-service_content.php 15 47425 0 0
+/admin/upload.php 12 34878 0 0
+/sobre/ 12 33435 0 0
+/admin/rel-slider.php 11 29159 0 0
+/admin/php/upload.php 3 201 0 0
+/admin/rel-adm_mga.php 3 7569 0 0
+/servico/projetos-mecanicos 4 12293 0 0
+/sis/ 1 207 0 0
+/orcamento/ 6 15496 0 0
+/admin/login.php 11 12287 0 1
+/servico/consultoria-em-processos-de-tratamento-termico-em-metalurgica 5 12379 0 0
+/contato/ 11 27029 1 1
+/admin/rel-seo.php 4 9864 0 0
+/admin/rel-contatos.php 1 2828 0 0
+/admin/rel-services.php 5 13205 0 0
+/servico/auditoria-interna 5 13929 0 2
+/fornos/ 1 3119 0 0
+/admin/css/font/fontawesome-webfont.woff 10 88038 0 0
+/orcamento.php 2 5240 0 0
+/admin/rel-newsletter.php 1 2497 0 0
+END_SIDER

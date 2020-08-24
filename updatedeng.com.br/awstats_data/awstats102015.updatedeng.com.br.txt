@@ -1,0 +1,299 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201510 will be lost/reset.
+# Last config file used to build this data file was /home/web1327/awstats/conf/awstats.updatedeng.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2682                
+POS_VISITOR 6232                
+POS_DAY 6626                
+POS_DOMAIN 3328                
+POS_LOGIN 3560                
+POS_ROBOT 3715                
+POS_WORMS 3885                
+POS_EMAILSENDER 4016                
+POS_EMAILRECEIVER 4159                
+POS_SESSION 6977                
+POS_SIDER 7183                
+POS_FILETYPES 4294                
+POS_OS 4487                
+POS_BROWSER 4576                
+POS_SCREENSIZE 4739                
+POS_UNKNOWNREFERER 4813                
+POS_UNKNOWNREFERERBROWSER 4900                
+POS_ORIGIN 4982                
+POS_SEREFERRALS 5119                
+POS_PAGEREFS 5274                
+POS_SEARCHWORDS 5422                
+POS_KEYWORDS 5574                
+POS_MISC 2346                
+POS_ERRORS 5633                
+POS_CLUSTER 3416                
+POS_SIDER_404 5744                
+POS_EXTRA_1 5927                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151109085555 1 0 10636421045895
+FirstTime 20151001082359
+LastTime 20151022194912
+LastUpdate 20151110011720 1 0 0 0 0
+TotalVisits 31                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 1 1 11914 3 3 25097
+8 55 446 790800 5 7 11183
+9 30 238 1955837 8 12 14208
+10 3 17 9902 0 0 0
+11 38 201 111291 9 11 16573
+12 19 80 3059726 3 6 16938
+13 12 34 1933966 0 0 0
+14 9 64 1204636 0 0 0
+15 20 232 140207 4 7 7586
+16 9 62 2904211 2 2 713
+17 21 103 2236612 0 0 0
+18 19 73 1253523 0 0 0
+19 11 82 4004880 0 0 0
+20 102 662 830683 18 26 35211
+21 68 440 900659 6 8 10601
+22 22 189 332640 6 8 8740
+23 1 1 12016 3 3 25301
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 440 2925 21693503
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+no_user_agent 2 2538 20151018235644 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 249 63574 0 0
+png 805 14503958 0 0
+woff 19 0 0 0
+pl 1 658 0 0
+php 348 958213 0 0
+js 994 192201 0 0
+jpg 437 5737857 0 0
+Unknown 72 237042 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 4
+macosx 251
+linuxandroid 105
+winxp 2
+winvista 2567
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+msie6.0 2
+nokia 46
+chrome46.0.2490.71 1164
+mozilla 36
+chrome45.0.2454.101 1526
+android 105
+chrome46.0.2490.52 46
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 73 74
+From1 0 0
+From2 2 2
+From3 0 0
+From4 365 2849
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 2 713
+302 59 113932
+404 6 54968
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/browserconfig.xml 2 -
+/webalizer 2 -
+/estatisticas 2 -
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 0
+END_EXTRA_1
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+186.220.236.16 313 2033 8770161 20151020223005
+177.32.168.23 68 583 2708108 20151020104523
+177.32.17.114 40 205 9041435 20151022163812
+200.158.10.103 15 72 40394 20151005155930
+179.189.65.130 2 2 23930 20151018235644
+152.251.169.115 1 1 3553 20151019140213
+177.32.63.233 1 15 3554 20151022194912
+157.55.81.9 0 14 1102368 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20151001 8 53 892742 5
+20151003 1 1 11914 1
+20151005 112 652 2604422 4
+20151008 12 34 1933966 1
+20151010 54 291 146662 2
+20151014 68 658 4338489 5
+20151015 68 571 2707463 2
+20151016 50 191 320812 1
+20151018 1 1 12016 1
+20151019 43 210 7465086 4
+20151020 21 232 148703 3
+20151022 2 31 1111228 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 5
+2mn-5mn 3
+0s-30s 15
+30s-2mn 1
+15mn-30mn 1
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/ 84 312231 25 16
+/admin/upload-frame.php 52 111465 0 0
+/admin/rel-service_content.php 39 123665 0 0
+/admin/ed.php 31 96171 0 0
+/servico/fornos-de-tratamento-termico 30 113764 1 6
+/sobre/ 21 63881 0 2
+/contato/ 21 52466 1 1
+/admin/css/font/fontawesome-webfont.woff 19 0 0 1
+/admin/login.php 18 20106 2 1
+/servico/projetos-mecanicos 16 50541 1 1
+/admin/php/upload.php 15 1005 0 0
+/admin/rel-slider.php 10 27037 0 0
+/admin/rel-adm_mga.php 1 2521 0 0
+/admin/pages.php 10 32945 0 0
+/orcamento/ 14 36736 0 1
+/servico/consultoria-em-processos-de-tratamento-termico-em-metalurgica 14 39209 0 0
+/admin/rel-contatos.php 2 5656 0 0
+/admin/rel-seo.php 1 2465 0 0
+/admin/rel-services.php 5 13204 0 0
+/servico/auditoria-interna 12 33528 1 1
+/admin/novo.php 1 2653 0 0
+/fornos/ 5 15940 0 0
+/admin/upload.php 1 3049 0 0
+/awstats/awstats.pl 1 658 0 1
+/admin/rel-newsletter.php 1 2497 0 0
+/admin/ 16 32520 0 0
+END_SIDER

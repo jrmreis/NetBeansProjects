@@ -1,0 +1,410 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201511 will be lost/reset.
+# Last config file used to build this data file was /home/web1327/awstats/conf/awstats.updatedeng.com.br.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2010                
+POS_TIME 2689                
+POS_VISITOR 7839                
+POS_DAY 10008               
+POS_DOMAIN 3411                
+POS_LOGIN 3643                
+POS_ROBOT 3798                
+POS_WORMS 4155                
+POS_EMAILSENDER 4286                
+POS_EMAILRECEIVER 4429                
+POS_SESSION 10439               
+POS_SIDER 10645               
+POS_FILETYPES 4564                
+POS_OS 4750                
+POS_BROWSER 4870                
+POS_SCREENSIZE 5308                
+POS_UNKNOWNREFERER 5382                
+POS_UNKNOWNREFERERBROWSER 5507                
+POS_ORIGIN 5627                
+POS_SEREFERRALS 5766                
+POS_PAGEREFS 5932                
+POS_SEARCHWORDS 6180                
+POS_KEYWORDS 6706                
+POS_MISC 2353                
+POS_ERRORS 7015                
+POS_CLUSTER 3499                
+POS_SIDER_404 7140                
+POS_EXTRA_1 7321                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151201004442 74 18420 18334292431836
+FirstTime 20151109085555
+LastTime 20151130225322
+LastUpdate 20151201011719 74 0 73 0 0
+TotalVisits 55                  
+TotalUnique 49                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 16 987185
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 1 16 1107674 2 2 6742
+4 0 0 0 0 1 17505
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 13 142 1139441 7 15 134236
+8 36 205 7330773 8 14 92927
+9 8 82 5971606 4 25 999439
+10 10 92 2860806 3 6 9952
+11 8 53 2118009 3 4 25717
+12 1 16 1107674 2 2 6348
+13 2 5 39527 1 20 1132033
+14 1 1 12032 1 9 1024893
+15 3 21 1947869 4 9 10057
+16 11 92 5422021 3 7 75483
+17 8 83 5397696 12 27 1128460
+18 2 31 2214005 9 25 1132885
+19 15 193 2991473 12 38 2085373
+20 14 81 4830762 5 31 1898419
+21 26 166 6401894 8 25 821990
+22 74 346 4878436 17 47 2250177
+23 26 154 2644289 6 9 215379
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 259 1779 58415987
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 145 10501563 20151130194331 0
+googlebot 72 2555863 20151130220813 7
+favicon 34 72597 20151130161835 0
+crawl 3 6181 20151125211025 1
+no_user_agent 1 1269 20151118113153 0
+cfnetwork 1 1343 20151117222107 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 126 491713 0 0
+php 213 756411 0 0
+png 652 42918581 0 0
+jpg 328 11537875 0 0
+js 414 2479565 0 0
+woff 5 88038 0 0
+Unknown 41 143804 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 21
+linuxandroid 113
+winxp 79
+Unknown 1
+linux 51
+winvista 1192
+win2008 322
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+msie6.0 3
+chrome42.0.0.10338 17
+chrome45.0.2454.99 1
+android 18
+chrome28.0.1500.94 15
+chrome13.0.782.215 4
+chrome38.0.2125.102 32
+chrome46.0.2490.76 48
+msie8.0 10
+chrome46.0.2490.80 71
+chrome45.0.2454.101 1
+mozilla 16
+msie10.0 36
+chrome44.0.2403.89 15
+chrome27.0.1453 30
+chrome46.0.2490.86 1377
+safari8.0 15
+msie9.0 46
+firefox27.0 2
+Unknown 1
+chrome30.0.1599.114 15
+chrome10.0.648.127 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Google-AdWords-Express 20151124081340
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Google-AdWords-Express 20151124081340
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 36 39
+From1 0 0
+From2 37 37
+From3 4 4
+From4 182 1699
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 36 36
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html 3 3
+http://mail.uol.com.br 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 9
+o+que+e+tratamento+termico 4
+emprego+tratamento+termico+em+s%c3%a3o+paulo+s%c3%a3o+paulo 2
+brasimet+tratamento+termico 2
+rua+casper+libero+onde+faz+mologacao 1
+tire+suas+d%c3%bavidas+sobre+homologa%c3%a7%c3%a3o 1
+oportunidades+tratamento+termico 1
+emprego+de+tratamento+t%c3%a9rmico+em+s%c3%a3o+paulo+sp 1
+emprego+tratamento+termico 1
+significado+de+homologa%c3%a7%c3%a3o 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 26
+tratamento 11
+termico 10
+paulo 5
+s%c3%a3o 5
+e 4
+emprego 4
+que 4
+o 4
+em 3
+homologa%c3%a7%c3%a3o 2
+sp 1
+suas 1
+faz 1
+t%c3%a9rmico 1
+onde 1
+sobre 1
+rua 1
+d%c3%bavidas 1
+libero 1
+casper 1
+mologacao 1
+significado 1
+de 2
+brasimet 2
+oportunidades 1
+tire 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 4 1426
+302 28 64363
+206 12 801653
+404 9 48942
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 4
+/mobile/ 3 -
+/webalizer 1 -
+/estatisticas 1 -
+/m/ 4 -
+END_SIDER_404
+
+# Extra key - Pages - Hits - Bandwidth - Last access
+# The 100 first number of hits are first
+BEGIN_EXTRA_1 5
+/img/img-engrenagem.png 0 2 449363 
+/img/profissional-quali.png 0 3 74348 
+/img/simulacao-box.png 0 4 220444 
+/files/slider/fornos-2-de-tratamento-termico-1-2.jpg 0 2 16043 
+/img/equip-profissional.png 0 1 41455 
+END_EXTRA_1
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+177.32.80.30 104 530 4927297 20151122230936
+177.32.63.135 34 357 4296170 20151123204102
+177.32.86.99 15 126 3263731 20151113085750
+177.32.63.233 14 71 2938044 20151109111429
+201.42.212.98 10 45 2319486 20151126225541
+179.111.221.101 8 36 2061659 20151126104723
+64.215.22.90 6 37 2102423 20151126113153
+177.32.94.17 6 42 3554278 20151125203602
+187.75.191.192 6 75 2341400 20151119102309
+189.47.160.220 6 46 4012142 20151127163052
+201.42.221.16 2 20 1855348 20151126231115
+216.38.216.197 2 4 85830 20151128225019
+198.58.118.93 1 1 3554 20151130195602
+162.216.46.31 1 1 12032 20151130154754
+177.102.111.49 1 16 1107674 20151130033308
+187.85.36.220 1 16 1107674 20151126182655
+177.183.85.190 1 16 1107674 20151126223208
+187.85.11.32 1 15 1106331 20151128223536
+187.74.249.19 1 16 1107674 20151130081024
+187.182.122.6 1 16 1107674 20151126163550
+69.164.111.198 2 5 122108 20151130225322
+177.102.44.195 2 16 7108 20151129160840
+66.249.88.252 1 15 868958 20151124091028
+66.249.84.120 1 1 3554 20151124083108
+66.249.88.90 2 2 7108 20151124081813
+187.11.112.94 5 30 2052744 20151123174429
+64.233.172.172 0 12 1224477 
+66.102.6.146 1 2 62290 20151116095452
+179.189.65.130 1 1 12032 20151118113153
+191.23.33.254 1 18 1125575 20151127175244
+208.184.112.75 1 4 35973 20151130132850
+187.56.246.83 2 17 1111228 20151128161915
+66.249.84.119 1 1 3554 20151124082752
+200.161.124.64 1 16 1107674 20151127093055
+179.154.121.50 1 19 1111703 20151127173257
+208.42.251.123 1 1 3554 20151130130226
+187.34.161.42 1 16 1107674 20151129173110
+107.178.33.226 1 15 1106331 20151117222047
+191.32.197.227 1 16 1107674 20151130092134
+216.163.188.224 2 2 24064 20151128224802
+64.233.172.164 1 7 203939 20151125185056
+64.233.172.180 0 8 637605 
+187.56.145.207 1 16 1107674 20151126161546
+95.220.182.22 1 1 12032 20151130165041
+66.102.6.148 0 1 84351 
+150.70.173.55 1 1 12032 20151130140410
+66.249.80.76 1 1 3554 20151124081340
+189.54.219.138 1 16 1107674 20151127123753
+66.249.82.168 1 1 3554 20151124081739
+66.249.88.128 1 19 1543376 20151125212658
+66.249.88.247 1 12 1073164 20151125212658
+66.249.84.118 1 1 3554 20151124081338
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20151109 14 71 2938044 2
+20151113 15 126 3263731 1
+20151116 1 15 1106331 1
+20151117 1 15 1106331 1
+20151118 1 1 12032 1
+20151119 6 75 2341400 1
+20151122 104 530 4927297 1
+20151123 39 387 6348914 4
+20151124 8 23 1132552 7
+20151125 18 117 9354365 6
+20151126 21 172 10453680 9
+20151127 10 115 8464768 5
+20151128 7 38 2327453 4
+20151129 3 32 1114782 2
+20151130 11 62 3524307 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 6
+2mn-5mn 4
+0s-30s 37
+30s-2mn 5
+15mn-30mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 21
+/ 82 401642 52 48
+/admin/rel-service_content.php 27 86672 0 0
+/servico/consultoria-em-processos-de-tratamento-termico-em-metalurgica 25 87794 0 2
+/admin/upload-frame.php 24 56814 0 0
+/admin/ed.php 21 68493 0 0
+/contato/ 11 27742 0 0
+/admin/ 9 18293 0 0
+/admin/rel-services.php 9 23767 0 0
+/servico/projetos-mecanicos 7 22366 0 1
+/sobre/ 7 22680 0 1
+/admin/php/upload.php 2 134 0 0
+/admin/rel-slider.php 4 10655 0 0
+/admin/pages.php 4 13538 0 0
+/sis/ 1 201 0 0
+/orcamento/ 3 7872 0 1
+/admin/login.php 5 5585 2 1
+/admin/rel-seo.php 1 2466 0 0
+/servico/fornos-de-tratamento-termico 7 28056 1 1
+/servico/auditoria-interna 2 5588 0 0
+/admin/css/font/fontawesome-webfont.woff 5 88038 0 0
+/admin/upload.php 3 9857 0 0
+END_SIDER
