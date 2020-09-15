@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/sun-resources.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE resources SYSTEM "sun-resources.dtd">
+
+    <resources>
+    ...
+    </resources>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT resources (jdbc-resource|jdbc-connection-pool)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT jdbc-resource (description)*>
+<!ATTLIST jdbc-resource
+    enabled CDATA #IMPLIED
+    jndi-name CDATA #IMPLIED
+    object-type CDATA #IMPLIED
+    pool-name CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT description (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT jdbc-connection-pool (description|property)*>
+<!ATTLIST jdbc-connection-pool
+    connection-creation-retry-attempts CDATA #IMPLIED
+    allow-non-component-callers CDATA #IMPLIED
+    validate-atmost-once-period-in-seconds CDATA #IMPLIED
+    associate-with-thread CDATA #IMPLIED
+    connection-creation-retry-interval-in-seconds CDATA #IMPLIED
+    pool-resize-quantity CDATA #IMPLIED
+    wrap-jdbc-objects CDATA #IMPLIED
+    lazy-connection-association CDATA #IMPLIED
+    max-pool-size CDATA #IMPLIED
+    max-connection-usage-count CDATA #IMPLIED
+    connection-leak-reclaim CDATA #IMPLIED
+    statement-leak-timeout-in-seconds CDATA #IMPLIED
+    res-type CDATA #IMPLIED
+    connection-leak-timeout-in-seconds CDATA #IMPLIED
+    connection-validation-method CDATA #IMPLIED
+    statement-timeout-in-seconds CDATA #IMPLIED
+    non-transactional-connections CDATA #IMPLIED
+    datasource-classname CDATA #IMPLIED
+    fail-all-connections CDATA #IMPLIED
+    max-wait-time-in-millis CDATA #IMPLIED
+    ping CDATA #IMPLIED
+    statement-cache-size CDATA #IMPLIED
+    statement-leak-reclaim CDATA #IMPLIED
+    idle-timeout-in-seconds CDATA #IMPLIED
+    lazy-connection-enlistment CDATA #IMPLIED
+    is-connection-validation-required CDATA #IMPLIED
+    steady-pool-size CDATA #IMPLIED
+    pooling CDATA #IMPLIED
+    is-isolation-level-guaranteed CDATA #IMPLIED
+    name CDATA #IMPLIED
+    match-connections CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT property EMPTY>
+<!ATTLIST property
+    name CDATA #IMPLIED
+    value CDATA #IMPLIED
+  >

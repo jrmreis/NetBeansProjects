@@ -17,7 +17,10 @@
         <h1>Consulta</h1>
         
         <a href="">Tabela</a>
- 
+        
+        <sql:query var="netbeansjoel" dataSource="ConnectionFactory.java">
+            SELECT * FROM netbeansjoel
+        </sql:query>
 </table>
         
         
