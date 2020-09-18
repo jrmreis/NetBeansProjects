@@ -10,8 +10,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">        
+        <title>Tabela Estatísticas</title>
+        
+       
+
+
+    <!-- load CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400">
+    <!-- Google web font "Open Sans" -->
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <!-- https://getbootstrap.com/ -->
+    <link rel="stylesheet" href="../css/templatemo-style.css">
+    <!-- Templatemo style -->
+        
+
+        
+        
     </head>
     <body>
         <h1>Relatório Spark Tabela SPK_STATISTICS</h1>

@@ -17,7 +17,7 @@
         <h1>Hello World!</h1>
         
     <sql:query var="result" dataSource="jdbc/affablebean">
-        SELECT * FROM product
+        SELECT * FROM category, product WHERE category.id = product.category_id
     </sql:query>
     
     <table border="1">
